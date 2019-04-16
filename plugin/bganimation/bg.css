@@ -11,7 +11,6 @@
 .cb-slideshow li:nth-child(4) span { background-image: url('https://ws3.sinaimg.cn/large/005BYqpgly1g23mev71v6j312w0oeqcq.jpg');}
 .cb-slideshow li:nth-child(5) span { background-image: url('https://ws3.sinaimg.cn/large/005BYqpgly1g23mtdqqnuj31480s37eb.jpg');}
 .cb-slideshow li:nth-child(6) span { background-image: url('https://ws3.sinaimg.cn/large/005BYqpgly1g23mtevqp1j316e0u0wrt.jpg');}
-.cb-slideshow li:nth-child(6) span { background-image: url('https://ws3.sinaimg.cn/large/005BYqpgly1g23mtg3xadj31900u018y.jpg');}
 .cb-slideshow li:nth-child(7) span { background-image: url('https://ws3.sinaimg.cn/large/005BYqpgly1g23mty1cafj30u00u0kjo.jpg');}
 .cb-slideshow li:nth-child(8) span { background-image: url('https://ws3.sinaimg.cn/large/005BYqpgly1g23mtpe5bvj31hc0u01ky.jpg');}
 .cb-slideshow li:nth-child(9) span { background-image: url('https://ws3.sinaimg.cn/large/005BYqpgly1g23mtk5wrfj31de0rs4qp.jpg');}
@@ -23,6 +22,7 @@
 .cb-slideshow li:nth-child(15) span { background-image: url('https://ws3.sinaimg.cn/large/005BYqpggy1g24d6vcdpnj30y30u0125.jpg');}
 .cb-slideshow li:nth-child(16) span { background-image: url('https://ws3.sinaimg.cn/large/005BYqpgly1g24d6tsbkyj30u0160qkj.jpg');}
 .cb-slideshow li:nth-child(17) span { background-image: url('https://ws3.sinaimg.cn/large/005BYqpggy1g24d6lfza4j315o0pf42h.jpg');}
+.cb-slideshow li:nth-child(18) span { background-image: url('https://ws3.sinaimg.cn/large/005BYqpgly1g23mtg3xadj31900u018y.jpg');}
 .hidden-xs{
 
 }
